@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "AI Vision (Booth 1)",
+    "description": "Computer vision and image recognition technologies",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Natural Language (Booth 2)",
+    "description": "NLP, machine translation, and text analysis",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "AI for Business (Booth 3)",
+    "description": "Business process automation and analytics",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "name": "Robotics (Booth 4)",
+    "description": "Robotics and autonomous systems",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Healthcare AI (Booth 5)",
+    "description": "AI applications in healthcare and medicine",
+    "isActive": true
+  }
+]

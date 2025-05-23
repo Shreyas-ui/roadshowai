@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "tokenId": 1,
+    "fromBoothId": 1,
+    "toBoothId": 2,
+    "reason": "",
+    "createdAt": "2025-05-12T14:00:00.783Z"
+  },
+  {
+    "id": 2,
+    "tokenId": 5,
+    "fromBoothId": 4,
+    "toBoothId": 1,
+    "reason": "Reassignment",
+    "createdAt": "2025-05-19T10:36:36.971Z"
+  }
+]
