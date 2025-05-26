@@ -265,3 +265,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+src/dist
+package-lock.json
