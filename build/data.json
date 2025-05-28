@@ -1,0 +1,8 @@
+{
+  "booths": [
+    { "id": 1, "name": "AI Everyday", "handlers": [], "queue": [], "completed": [] },
+    { "id": 2, "name": "AI for Excel", "handlers": [], "queue": [], "completed": [] },
+    { "id": 3, "name": "AI for Science", "handlers": [], "queue": [], "completed": [] }
+  ],
+  "customers": []
+}
